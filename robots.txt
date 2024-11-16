@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://imsi32.github.io/sitemap.xml
+Sitemap: https://imsi.tr/sitemap.xml
